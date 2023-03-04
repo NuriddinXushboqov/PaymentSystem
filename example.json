@@ -1,0 +1,10 @@
+{
+  "statusCode":0,
+  "message": "ok",
+  "object": {
+    "balance": 2000,
+    "cardNumber": "1243124141",
+    "card_id": 1234241,
+    "phoneNumber": "134134"
+  }
+}
